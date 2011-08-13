@@ -1,0 +1,6 @@
+prison (1.0+dfsg-1) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #637083)
+  * Repack upstream tarball to include the license text of the cmake scripts.
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 05 Aug 2011 22:16:53 +0200
