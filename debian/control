@@ -1,7 +1,7 @@
 Source: prison
 Section: libs
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Philip Muškovac <yofel@kubuntu.org>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
