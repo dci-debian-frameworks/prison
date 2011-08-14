@@ -1,4 +1,4 @@
-prison (1.0+dfsg-1) UNRELEASED; urgency=low
+prison (1.0+dfsg-0r1) UNRELEASED; urgency=low
 
   * Initial release. (Closes: #637083)
   * Repack upstream tarball to include the license text of the cmake scripts.
