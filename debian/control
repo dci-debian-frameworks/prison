@@ -2,7 +2,8 @@ Source: prison
 Section: libs
 Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Philip Muškovac <yofel@kubuntu.org>
+Uploaders: Philip Muškovac <yofel@kubuntu.org>,
+           Felix Geyer <debfx-pkg@fobos.de>
 Build-Depends: cmake,
                debhelper (>= 8.1.3~),
                libdmtx-dev,
