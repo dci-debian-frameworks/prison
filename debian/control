@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Philip Muškovac <yofel@kubuntu.org>
 Build-Depends: cmake,
-               debhelper (>= 8.0.0),
+               debhelper (>= 8.1.3~),
                libdmtx-dev,
                libqrencode-dev,
                libqt4-dev,
@@ -27,6 +27,8 @@ Description: barcode API for Qt - development files
 
 Package: libprison0
 Architecture: any
+Multi-Arch: same
+Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: barcode API for Qt
  prison is a barcode API currently offering a nice Qt API to produce QRCode

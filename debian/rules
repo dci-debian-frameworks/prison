@@ -2,5 +2,10 @@
 
 include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 
+DEB_HOST_MULTIARCH ?= $(shell dpkg-architecture -qDEB_HOST_MULTIARCH)
+
+override_dh_auto_configure:
+	$(overridden_command) -- -DLIB_SUFFIX="/$(DEB_HOST_MULTIARCH)"
+
 override_dh_strip:
 	$(overridden_command) --dbg-package=libprison-dbg

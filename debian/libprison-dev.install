@@ -9,5 +9,5 @@ usr/include/prison/barcodewidget.h
 usr/include/prison/datamatrixbarcode.h
 usr/include/prison/prison_export.h
 usr/include/prison/qrcodebarcode.h
-usr/lib/cmake/Prison/PrisonConfig.cmake
-usr/lib/libprison.so
+usr/lib/*/cmake/Prison/PrisonConfig.cmake
+usr/lib/*/libprison.so
