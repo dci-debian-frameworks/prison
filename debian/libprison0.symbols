@@ -1,7 +1,5 @@
 # SymbolsHelper-Confirmed: 1.0 amd64
 libprison.so.0 libprison0 #MINVER#
- _ZN10QByteArrayD1Ev@Base 1.0
- _ZN10QByteArrayD2Ev@Base 1.0
  _ZN6prison11BarcodeItem10setBarcodeEPNS_15AbstractBarcodeE@Base 1.0
  _ZN6prison11BarcodeItem5paintEP8QPainterPK24QStyleOptionGraphicsItemP7QWidget@Base 1.0
  _ZN6prison11BarcodeItem7setDataERK7QString@Base 1.0
@@ -44,8 +42,6 @@ libprison.so.0 libprison0 #MINVER#
  _ZN6prison17DataMatrixBarcodeD0Ev@Base 1.0
  _ZN6prison17DataMatrixBarcodeD1Ev@Base 1.0
  _ZN6prison17DataMatrixBarcodeD2Ev@Base 1.0
- _ZN7QStringD1Ev@Base 1.0
- _ZN7QStringD2Ev@Base 1.0
  _ZNK6prison11BarcodeItem12boundingRectEv@Base 1.0
  _ZNK6prison13BarcodeWidget15minimumSizeHintEv@Base 1.0
  _ZNK6prison15AbstractBarcode11minimumSizeEv@Base 1.0
