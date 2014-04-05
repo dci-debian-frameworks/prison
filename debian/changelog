@@ -6,6 +6,7 @@ prison (1.1.1-1) UNRELEASED; urgency=medium
   * Switch to debhelper compat level 9.
   * Set libprison-dbg to Multi-Arch: same.
   * Bump Standards-Version to 3.9.5, no changes needed.
+  * Update symbols file.
 
  -- Felix Geyer <fgeyer@debian.org>  Sat, 05 Apr 2014 16:37:19 +0200
 
