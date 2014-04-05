@@ -41,6 +41,7 @@ Package: libprison-dbg
 Section: debug
 Priority: extra
 Architecture: any
+Multi-Arch: same
 Depends: libprison0 (= ${binary:Version}), ${misc:Depends}
 Description: barcode API for Qt - debugging symbols
  prison is a barcode API currently offering a nice Qt API to produce QRCode
