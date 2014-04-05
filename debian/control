@@ -5,7 +5,7 @@ Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Philip Muškovac <yofel@kubuntu.org>,
            Felix Geyer <fgeyer@debian.org>
 Build-Depends: cmake,
-               debhelper (>= 8.1.3~),
+               debhelper (>= 9),
                libdmtx-dev,
                libqrencode-dev,
                libqt4-dev,
