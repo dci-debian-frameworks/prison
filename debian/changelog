@@ -1,3 +1,9 @@
+prison-kf5 (1.2~git20150223-0ubuntu1~ppa1) vivid; urgency=medium
+
+  * New snapshot for use with Plasma 5.2
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 23 Feb 2015 15:33:11 +0100
+
 prison (1.1.1-1) unstable; urgency=medium
 
   * New upstream release.
