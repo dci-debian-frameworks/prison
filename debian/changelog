@@ -1,8 +1,14 @@
-prison-kf5 (1.2~git20150223-0ubuntu1) UNRELEASED; urgency=medium
+prison-kf5 (1.2~git20150223-0ubuntu2) vivid; urgency=medium
+
+  * Add missing build-depends
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 24 Feb 2015 11:58:43 +0100
+
+prison-kf5 (1.2~git20150223-0ubuntu1) vivid; urgency=medium
 
   * New snapshot for use with Plasma 5.2
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 23 Feb 2015 15:33:11 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 24 Feb 2015 11:58:32 +0100
 
 prison (1.1.1-1) unstable; urgency=medium
 
