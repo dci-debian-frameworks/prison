@@ -1,3 +1,9 @@
+prison-kf5 (1.2~git20150223-0ubuntu3) UNRELEASED; urgency=medium
+
+  * Debian merge. No remaining changes. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 02 Dec 2015 13:45:28 -0800
+
 prison-kf5 (1.2~git20150223-0ubuntu2) vivid; urgency=medium
 
   * Add missing build-depends
