@@ -1,3 +1,3 @@
-version=4
+version=3
 
-http://download.kde.org/stable/prison/(\d[\d\.]+)/src/prison-(\d[\d\.]+)@ARCHIVE_EXT@
+http://ftp.kde.org/stable/prison/(\d[\d\.]+)/src/ prison-([\d\.]+).tar.xz
