@@ -1,4 +1,4 @@
-usr/include/KF5/PRISON/prison
+usr/include/KF5/prison/
 usr/include/KF5/prison_version.h
 usr/lib/*/cmake/KF5Prison/*
 usr/lib/*/libKF5Prison.so
