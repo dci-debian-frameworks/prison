@@ -1,24 +1,23 @@
-Source: prison
+Source: prison-kf5
 Section: libs
 Priority: optional
-Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Philip Muškovac <yofel@kubuntu.org>,
-           Felix Geyer <fgeyer@debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
+               extra-cmake-modules (>= 1.7.0),
                libdmtx-dev,
                libqrencode-dev,
-               libqt4-dev,
-               pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.5
+               pkg-kde-tools (>= 0.12),
+               qtbase5-dev
+Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kdesupport/prison
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/krap/prison.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/krap/prison.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/frameworks/prison.git/
+Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/prison.git
 
-Package: libprison-dev
+Package: libkf5prison-dev
 Section: libdevel
 Architecture: any
-Depends: libprison0 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5prison1 (= ${binary:Version}), ${misc:Depends}
 Description: barcode API for Qt - development files
  prison is a barcode API currently offering a nice Qt API to produce QRCode
  barcodes and DataMatrix barcodes, and can easily be made support more.
@@ -26,7 +25,7 @@ Description: barcode API for Qt - development files
  This package contains the development headers and files needed to create
  applications that use the prison library.
 
-Package: libprison0
+Package: libkf5prison1
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
@@ -37,12 +36,12 @@ Description: barcode API for Qt
  .
  This package contains the shared library to be used by applications.
 
-Package: libprison-dbg
+Package: libkf5prison-dbg
 Section: debug
 Priority: extra
 Architecture: any
 Multi-Arch: same
-Depends: libprison0 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5prison1 (= ${binary:Version}), ${misc:Depends}
 Description: barcode API for Qt - debugging symbols
  prison is a barcode API currently offering a nice Qt API to produce QRCode
  barcodes and DataMatrix barcodes, and can easily be made support more.
