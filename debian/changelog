@@ -1,4 +1,4 @@
-prison-kf5 (5.27.0~git20160918-1~) UNRELEASED; urgency=medium
+prison-kf5 (5.27.0~git20160918-1) experimental; urgency=medium
 
   [ Jonathan Riddell ]
   * Update for changes and frameworks branch merged into master
@@ -6,7 +6,7 @@ prison-kf5 (5.27.0~git20160918-1~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * Prepare kf5 version for Debian upload.
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 10 Aug 2016 15:19:47 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 16 Oct 2016 16:02:40 +0200
 
 prison-kf5 (1.2~git20150223-0ubuntu2) vivid; urgency=medium
 
