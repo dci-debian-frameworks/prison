@@ -1,6 +1,10 @@
-prison-kf5 (1.2~git20150223-0ubuntu3) UNRELEASED; urgency=medium
+prison-kf5 (5.25~git20161107-0neon) xenial; urgency=medium
 
+  [ Scarlett Clark ]
   * Debian merge. No remaining changes. 
+
+  [ Raymond Wooninck ]
+  * Bump version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 02 Dec 2015 13:45:28 -0800
 
