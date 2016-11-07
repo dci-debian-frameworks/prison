@@ -4,6 +4,16 @@ prison-kf5 (5.25.0~git20160810-0) UNRELEASED; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 10 Aug 2016 15:19:47 +0100
 
+prison-kf5 (5.25~git20161107-0neon) xenial; urgency=medium
+
+  [ Scarlett Clark ]
+  * Debian merge. No remaining changes. 
+
+  [ Raymond Wooninck ]
+  * Bump version
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 02 Dec 2015 13:45:28 -0800
+
 prison-kf5 (1.2~git20150223-0ubuntu2) vivid; urgency=medium
 
   * Add missing build-depends
