@@ -1,3 +1,9 @@
+prison-kf5 (5.31.0-0neon) UNRELEASED; urgency=medium
+
+  * New version
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 06 Mar 2017 10:57:11 +0000
+
 prison-kf5 (5.25.0~git20160810-0) UNRELEASED; urgency=medium
 
   * Update for changes and frameworks branch merged into master
