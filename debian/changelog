@@ -1,9 +1,16 @@
-prison-kf5 (5.35.0-1~) UNRELEASED; urgency=medium
+prison-kf5 (5.35.0-1~1) UNRELEASED; urgency=medium
 
+  [ Maximiliano Curia ]
   * Update watch file
   * New upstream release (5.35.0).
+  * Bump Standards-Version to 4.0.0.
+  * Update build-deps and deps with the info from cmake
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 26 Jun 2017 17:07:09 +0200
+  [ Jonathan Riddell ]
+  * update watch file
+  * remove backup file
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 06 Jul 2017 14:23:14 +0200
 
 prison-kf5 (5.27.0~git20160918-1) experimental; urgency=medium
 
