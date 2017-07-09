@@ -1,4 +1,4 @@
-prison-kf5 (5.36.0-1~) UNRELEASED; urgency=medium
+prison-kf5 (5.36.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * Update watch file
@@ -7,12 +7,13 @@ prison-kf5 (5.36.0-1~) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
   * watch: Use https uris
   * New upstream release (5.36.0).
+  * Update build-deps and deps with the info from cmake
 
   [ Jonathan Riddell ]
   * update watch file
   * remove backup file
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 13:40:54 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 09 Jul 2017 23:41:32 +0200
 
 prison-kf5 (5.27.0~git20160918-1) experimental; urgency=medium
 
