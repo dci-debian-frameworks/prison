@@ -42,6 +42,7 @@ Description: barcode API for Qt (documentation)
  This package contains the shared library to be used by applications.
  .
  This package contains the qch documentation files.
+Section: doc
 
 Package: libkf5prison5
 Architecture: any
