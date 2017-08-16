@@ -1,8 +1,13 @@
-prison-kf5 (5.37.0-1~) UNRELEASED; urgency=medium
+prison-kf5 (5.37.0-1) experimental; urgency=medium
 
   * New upstream release (5.37.0).
+  * Update build-deps and deps with the info from cmake
+  * Add a libkf5prison-doc package for the qch files
+  * Bump Standards-Version to 4.0.1.
+  * Set section for the doc package
+  * Release to experimental
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 14 Aug 2017 13:15:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Aug 2017 10:42:30 +0200
 
 prison-kf5 (5.36.0-1) experimental; urgency=medium
 
