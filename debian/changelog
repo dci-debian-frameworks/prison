@@ -1,3 +1,9 @@
+prison-kf5 (5.41.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 08 Dec 2017 14:49:10 +0000
+
 prison-kf5 (5.40.0-0neon) xenial; urgency=medium
 
   * New release
