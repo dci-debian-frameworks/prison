@@ -1,3 +1,9 @@
+prison-kf5 (5.41.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.41.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 13 Dec 2017 09:26:01 -0300
+
 prison-kf5 (5.41.0-0neon) xenial; urgency=medium
 
   * New release
@@ -15,12 +21,6 @@ prison-kf5 (5.39.0-0neon) xenial; urgency=medium
   * New release
 
  -- Neon CI <neon@kde.org>  Sun, 15 Oct 2017 11:47:47 +0000
-
-prison-kf5 (5.38.0-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.38.0).
-
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Sep 2017 17:08:13 +0200
 
 prison-kf5 (5.38.0-0neon) xenial; urgency=medium
 
