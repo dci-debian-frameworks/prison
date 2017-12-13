@@ -101,12 +101,6 @@ prison-kf5 (5.32.0-0neon) xenial; urgency=medium
 
  -- Neon CI <neon@kde.org>  Sun, 12 Mar 2017 13:24:26 +0000
 
-prison-kf5 (5.31.0-0neon) UNRELEASED; urgency=medium
-
-  * New version
-
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 06 Mar 2017 10:57:11 +0000
-
 prison-kf5 (5.27.0~git20160918-1) experimental; urgency=medium
 
   [ Jonathan Riddell ]
@@ -120,7 +114,7 @@ prison-kf5 (5.27.0~git20160918-1) experimental; urgency=medium
 prison-kf5 (5.25~git20161107-0neon) xenial; urgency=medium
 
   [ Scarlett Clark ]
-  * Debian merge. No remaining changes. 
+  * Debian merge. No remaining changes.
 
   [ Raymond Wooninck ]
   * Bump version
