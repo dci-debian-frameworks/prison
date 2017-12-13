@@ -22,7 +22,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/prison.git
 Package: libkf5prison-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5prison5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5prison5 (= ${binary:Version}), qtbase5-dev, ${misc:Depends}
 Recommends: libkf5prison-doc (= ${source:Version})
 Description: barcode API for Qt - development files
  prison is a barcode API currently offering a nice Qt API to produce QRCode
