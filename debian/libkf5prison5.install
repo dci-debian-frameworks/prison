@@ -1,1 +1,3 @@
-usr/lib/*/libKF5Prison.so.5*
+etc/xdg/prison.categories
+usr/lib/*/libKF5Prison.so.5
+usr/lib/*/libKF5Prison.so.5.*
